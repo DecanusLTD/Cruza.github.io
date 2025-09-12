@@ -1,56 +1,32 @@
 # 🏍️ Cruza
 
-Cruza is a **motorcycle ride tracking and community app** built with React Native (Expo), Firebase, and modern mobile UI.  
-It lets riders **track their rides**, **analyze stats**, and **share experiences** — all wrapped in a sleek, bike-inspired design.
-
 ![Cruza Logo](assets/images/logo.png)
 
----
-
-## ✨ Features
-
-- 📍 **Ride Tracking**  
-  Background GPS tracking with distance, duration, average speed, and top speed.
-
-- 🗺️ **Ride Maps**  
-  See your ride routes on interactive maps with custom styling.
-
-- 📊 **Ride Summary**  
-  Beautiful post-ride overview with shareable cards.
-
-- 🌍 **Community & Sharing**  
-  Make rides **public** or keep them **private**. Share highlights with friends.
-
-- 🔑 **Authentication**  
-  Sign in with Apple (Firebase integration).
-
-- 🎨 **Branding**  
-  Midnight Blue (`#000E1B`) + Lime (`#D6ED17`) theme across all screens.
+Cruza is a **motorcycle ride tracking and community app**.  
+Track your rides, view stats, and connect with other riders — all in one place.  
 
 ---
 
-## 📲 Screenshots
-
-*(Add screenshots here once available)*
+## 📱 Download
+*(Coming soon to the App Store — stay tuned!)*
 
 ---
 
-## 🚀 Getting Started
+## 📞 Contact
+- Email: [support@cruza.app](mailto:support@cruza.app)  
+- Website: [https://cruza.app](https://cruza.app)  
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (LTS recommended)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
-- [Firebase project](https://firebase.google.com/) with Firestore + Auth enabled
-- [EAS CLI](https://docs.expo.dev/eas/) for builds
+---
 
-### Installation
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/cruza.git
-cd cruza
+## 📜 Policies
+- [Privacy Policy](privacy.md)  
+- [Terms of Use](terms.md)  
+- [Cookie Policy](cookies.md)  
 
-# Install dependencies
-npm install
+---
 
-# Start development server
-npx expo start
+## ✨ About Cruza
+Cruza was built by riders, for riders.  
+Our mission is to make every ride more enjoyable with tools to log, share, and explore safely.  
+
+**Brand Colors:** Midnight Blue `#000E1B` & Lime Green `#D6ED17`  
