@@ -24,7 +24,7 @@ The App is provided “as is.” We do not guarantee accuracy of GPS or map data
 We may suspend or terminate accounts that violate these Terms or applicable law.
 
 ## Contact
-Email: [support@cruza.app](mailto:support@cruza.app)
+Email: [support@cruza.app](mailto:deanlingard@decanus.com)
 
 ## Apple Standard EULA
 For iOS users, your use of the App is also governed by Apple’s Standard End User License Agreement:  
