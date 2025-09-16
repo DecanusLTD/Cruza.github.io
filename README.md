@@ -1,6 +1,6 @@
 # 🏍️ Cruza
 
-![Cruza Logo](logo.png)
+![Cruza Logo](logo-cover.png)
 
 Cruza is a **motorcycle ride tracking and community app**.  
 Track your rides, view stats, and connect with other riders — all in one place.  
