@@ -32,7 +32,7 @@ Cruza is not directed to children under 13 (or the minimum age in your country).
 We may process data in the UK, EU, and other countries. Where required, we use appropriate safeguards.
 
 ## Contact
-Email: [support@cruza.app](mailto:support@cruza.app)
+Email: [support@cruza.app](mailto:deanlingard@decanusltd.com)
 
 ## Changes
 We may update this policy and will revise the date above.
